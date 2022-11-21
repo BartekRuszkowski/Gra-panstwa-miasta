@@ -1,1 +1,1 @@
-# Gra-panstwa-miasta
+# Gra panstwa-miasta
