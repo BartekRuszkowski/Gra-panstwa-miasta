@@ -1,6 +1,6 @@
 # Gra panstwa-miasta!
 
-#Wprowadzanie
+# Wprowadzanie
 
 Projekt polega na stworzeniu prostej aplikacji - gry Państwa Miasta. Gra po uzyskaniu odpowiedzi od połowy graczy (lub po upłynieciu czasu) wygeneruje nowe pytanie.
 Serwer będzie napisany w języku C++, z wykorzystaniem BSD socket API do obsługi sieci.
